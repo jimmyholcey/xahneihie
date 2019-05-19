@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xiejaeget.maomorn.cn/sitemap.xml
